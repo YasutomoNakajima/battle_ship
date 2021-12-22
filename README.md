@@ -1,4 +1,3 @@
-# battle_ship"
+# battle_ship
 海戦ゲームをモチーフとしたブラウザソーシャルゲーム
-
-# デモ動画: demo.mp4
+デモ動画: demo.mp4
