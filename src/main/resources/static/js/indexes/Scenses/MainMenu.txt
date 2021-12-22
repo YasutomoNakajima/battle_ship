@@ -1,0 +1,10 @@
+(FIELD)
+AppState
+StandBy
+出撃button - ActionListner
+
+(METHOD)
+scenseSwitch{}
+ActionListner{
+    StandBy.scenseSwitch
+}

@@ -1,0 +1,10 @@
+(FIELD)
+AppState
+MainMenu
+TitleImage - ActionListner
+
+(METHOD)
+drawScense{}
+ActionListner{
+    MeinMenu.scenseSwitch
+}

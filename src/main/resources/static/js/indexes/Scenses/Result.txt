@@ -1,0 +1,10 @@
+(FIELD)
+AppState
+MainMenu
+OKbutton - ActionListner
+
+(METHOD)
+scenseSwitch{}
+ActionListner{
+    MainMenu.scenseSwitch
+}
